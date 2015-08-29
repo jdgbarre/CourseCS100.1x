@@ -1,2 +1,2 @@
-# Introduction to Big Data with Apache Spark 
+# edX - "Introduction to Big Data with Apache Spark"
 ## Final grade: 84%
